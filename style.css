@@ -1,0 +1,74 @@
+body{
+	background-color:black;
+}
+
+div#bgw{
+	position:absolute;
+	background-image:url("flower.jpg");
+	background-repeat:no:repeat;
+	background-size:cover;
+	left:25%;
+	top:10%;
+	width:50%;
+	height:80%;
+}
+
+div#bgb{
+	position:absolute;
+	background-color:#171717;
+	left:7%;
+	top:9%;
+	width:86%;
+	height:82%;
+}
+
+div#title_bar{
+	position:absolute;
+	color:white;
+	font-family:Jacques Francois Shadow;
+	font-size:1vmin;
+	left:2vw;
+	top:0vh;
+}
+
+div#home_picture{
+	position:absolute;
+	background-image:url('home.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	left:30%;
+	top:0%;
+	width:70%;
+	height:40%;
+}
+
+div#title_text{
+	position:absolute;
+	font-family:calibri;
+	font-size:3.5vmin;
+	color:white;
+	top:40%;
+	left:5%;
+}
+
+div#content_text{
+	position:absolute;
+	font-family:calibri;
+	font-size:0.5vmin;
+	color:white;
+	top:55%;
+	left:5%;
+	right:50%;
+}
+
+div#downhome_picture{
+	position:absolute;
+	background-image:url('downhome.jpg');
+	background-repeat:no-repeat;
+	background-size:cover;
+	left:65%;
+	top:55%;
+	width:20%;
+	height:37%;
+}
+	
