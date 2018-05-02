@@ -1,0 +1,123 @@
+.background{
+	position:absolute;
+	width:100%;
+	top:0%;
+	left:0%;
+    z-index:0;
+}
+.LOGO{
+	position:absolute;
+	width:36%;
+    top:6%;
+    left:5%;
+    z-index:1;
+}
+.slogan{
+	position:absolute;
+	width:30%;
+    top:26%;
+    left:11.5%;
+    z-index:1;
+}
+.background2_01{
+	position:absolute;
+	width:38%;
+    top:36.3%;
+    left:4.5%;
+	opacity:0.8;
+    z-index:1;
+}
+.team_memebers_01{
+	position:absolute;
+	width:2.48%;
+    top:11.5%;
+    left:92%;
+    z-index:1;
+}
+.wsc{
+	position:absolute;
+	width:95%;
+    top:3%;
+    left:3.5%;
+    z-index:2;
+}
+.rossa_ko{
+	position:absolute;
+	width:13%;
+    top:82.5%;
+    left:80%;
+    z-index:2;
+}
+.xym{
+	position:absolute;
+	width:13%;
+    top:27.5%;
+    left:79.5%;
+    z-index:2;
+}
+.cyf{
+	position:absolute;
+	width:13%;
+    top:40%;
+    left:56%;
+    z-index:2;
+}
+.zml{
+	position:absolute;
+	width:13%;
+    top:19.85%;
+    left:67.35%;
+    z-index:2;
+}
+.wxf{
+	position:absolute;
+	width:13%;
+    top:68.5%;
+    left:49%;
+    z-index:2;
+}
+.tys{
+	position:absolute;
+	width:13%;
+    top:87.9%;
+    left:61.1%;
+    z-index:2;
+}
+.building1{
+	position:absolute;
+	width:17%;
+    top:32.3%;
+    left:50.7%;
+    z-index:1;
+}
+.building2{
+	position:absolute;
+	width:12.85%;
+    top:49%;
+    left:75.8%;
+    z-index:1;
+}
+.building3{
+	position:absolute;
+	width:13.5%;
+    top:74%;
+    left:55.8%;
+    z-index:1;
+}
+.building4{
+	position:absolute;
+	width:13.9%;
+    top:86.95%;
+    left:73.9%;
+    z-index:1;
+}
+.introduction{
+	position:absolute;
+	width:32%;
+	top:39%;
+    left:7.5%;
+	font-family:Microsoft JhengHei;
+	line-height:0.8em;
+	word-break: normal;
+	z-index:3;
+}
